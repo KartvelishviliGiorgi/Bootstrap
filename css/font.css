@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'K2D';
+    src: url('../fonts/K2D-Regular.woff2') format('woff2'),
+        url('../fonts/K2D-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
